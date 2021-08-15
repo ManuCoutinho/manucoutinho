@@ -1,6 +1,6 @@
 ## Olá!! Sou a Emanuela Coutinho
 
-Atualmente sou estudante de desenvolvimento web, focada ns principais tecnologias para o front-end.
+Atualmente sou estudante de desenvolvimento web, focada nas principais tecnologias para o front-end.
 
  <div>
   <a href="https://github.com/ManuCoutinho">
