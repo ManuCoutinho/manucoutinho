@@ -20,7 +20,6 @@ Atualmente sou estudante de desenvolvimento web, focada nas principais tecnologi
   
 </div>
 
-
 ##
 
 <div>  
