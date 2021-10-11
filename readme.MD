@@ -1,10 +1,14 @@
 
- ## Who am I?
- ```javascript
+ <h2>Hello world!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+ 
+  <img width="250" align="right" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  
+```javascript
  
 const WhoAmI = {
   pronouns: "she" | "her",
   user: "Emanuela Coutinho",
+  role: "frontend",
   current_edu: "Rocketseat",
   techCommunities: "TecnoCrias",
   hobbies: [
@@ -12,7 +16,7 @@ const WhoAmI = {
    "Watching Anime",
    "Playing ARPG",
    "Being up all Night chasing that ONE BUG..."],
-   challenge: "I am doing the #100DaysOfCode challenge focused on javascript and react"
+   challenge: "I am doing the #100DaysOfCode challenge focused on javascript"
 }
 	
  function getCurrentCity() {
@@ -26,14 +30,15 @@ function Ambitions() {
 //Assume 10 more awesome ambitions here ;)
 	} 
  ```
-<br>
+
+
+<h3 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...</h3>
 <p>🆙 I'm currently a web development student, focused on the main frontend technologies. </p>
 <p>👾 I’m currently on career transition.</p>
 <p>👨‍💻 All of my projects are available <a href="https://manucoutinho.github.io/">🔗 here.</a></p>
 
-
 #
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>	
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -54,10 +59,7 @@ function Ambitions() {
 <div>  
   <a href="https://www.linkedin.com/in/emanuela-coutinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:devmanucoutinho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/ManuCoutinho/manucoutinho/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+ </div>
 <br>
 <div>
   <a href="https://github.com/ManuCoutinho">
@@ -65,3 +67,4 @@ function Ambitions() {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuCoutinho&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
+
