@@ -1,7 +1,7 @@
 
  <h2>Hello world!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  
-  <img width="250" align="right" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <img width="250" align="left" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
   
 ```javascript
  
