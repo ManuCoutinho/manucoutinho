@@ -7,14 +7,19 @@ const WhoAmI = {
   pronouns: "she" | "her",
   user: "Emanuela Coutinho",
   role: "frontend",
-  current_edu: "Rocketseat",
+  current_edu: [
+   "Rocketseat",
+   "Haward",
+   "DIO"
+   ],
   techCommunities: "TecnoCrias",
   hobbies: [
    "Studying",
    "Watching Anime",
    "Playing ARPG",
-   "Being up all Night chasing that ONE BUG..."],
-   challenge: "I am doing the #100DaysOfCode challenge focused on javascript"
+   "Being up all Night chasing that ONE BUG..."
+    ],
+   challenge: "waiting next hackaton"
 }
 	
  function getCurrentCity() {
