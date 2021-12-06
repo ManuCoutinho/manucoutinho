@@ -9,7 +9,7 @@ const WhoAmI = {
   role: "frontend",
   current_edu: [
    "Rocketseat",
-   "Haward",
+   "Harvard",
    "DIO"
    ],
   techCommunities: "TecnoCrias",
