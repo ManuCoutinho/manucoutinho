@@ -17,9 +17,8 @@ const WhoAmI = {
    "Watching Anime",
    "Playing ARPG",
    "Being up all Night chasing that ONE BUG..."
-    ],
-   challenge: "waiting next hackaton"
-}
+    ]
+  }
 	
  function getCurrentCity() {
 	return Curitiba_Brazil
