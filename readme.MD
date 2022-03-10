@@ -35,7 +35,6 @@ function Ambitions() {
  <img width="250" align="right" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 
 <h3 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...</h3>
-<p>🆙 I'm currently a web development student, focused on the main frontend technologies. </p>
 <p>👾 I’m currently on career transition.</p>
 <p>👨‍💻 All of my projects are available <a href="https://manucoutinho.github.io/">🔗 here.</a></p>
 
@@ -72,7 +71,4 @@ function Ambitions() {
 </div>
 
 <br>
-
-![](https://komarev.com/ghpvc/?username=your-github-ManuCoutinho&color=ff69b4&style=flat&label=visitors)
-
 
