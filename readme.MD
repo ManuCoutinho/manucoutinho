@@ -7,10 +7,12 @@ const WhoAmI = {
   pronouns: "she" | "her",
   user: "Emanuela Coutinho",
   role: "frontend",
-  current_edu: "Rocketseat"
+  current_edu: [
+   "Rocketseat",
+   "Gama Academy"
+  ]
   techCommunities: [
-   "TecnoCrias",
-   "Pessoas de Tech"
+   "TecnoCrias"
   ],
   hobbies: [
    "Studying",
@@ -20,9 +22,7 @@ const WhoAmI = {
     ]
   }
 	
- function getCurrentCity() {
-	return Curitiba_Brazil
-  }
+ const getCurrentCity = () => Curitiba_Brazil
 	
 function Ambitions() {
 	travelToJapan()
