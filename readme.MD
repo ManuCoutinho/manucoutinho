@@ -36,7 +36,7 @@ function Ambitions() {
 
 <h3 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...</h3>
 <p>👾 I’m currently on career transition.</p>
-<p>👨‍💻 All of my projects are available <a href="https://manucoutinho.github.io/">🔗 here.</a></p>
+<p>👨‍💻 All of my projects are available <a href="https://manucoutinho.vercel.app/">🔗 here.</a></p>
 
 #
 <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
