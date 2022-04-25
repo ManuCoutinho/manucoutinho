@@ -10,7 +10,7 @@ const WhoAmI = {
   current_edu: [
    "Rocketseat",
    "Gama Academy"
-  ]
+  ],
   techCommunities: [
    "TecnoCrias"
   ],
