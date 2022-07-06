@@ -9,7 +9,7 @@ const WhoAmI = {
   role: "frontend",
   current_edu: [
    "Rocketseat",
-   "Gama Academy"
+   "IGTI"
   ],
   techCommunities: [
    "TecnoCrias"
@@ -34,9 +34,7 @@ function Ambitions() {
  
  <img width="250" align="right" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 
-<h3 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...</h3>
-<p>👾 I’m currently on career transition.</p>
-<p>👨‍💻 All of my projects are available <a href="https://manucoutinho.vercel.app/">🔗 here.</a></p>
+<h3 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">All of my projects are available <a href="https://manucoutinho.vercel.app/">🔗 here.</a></h3>
 
 #
 <h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
@@ -51,7 +49,10 @@ function Ambitions() {
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://mui.com/pt" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/> </a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" alt="jamstack" width="40" height="40"/></a>	
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" alt="jamstack" width="40" height="40"/></a>
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/></a>
+            
+          
 	
 </p>
 
