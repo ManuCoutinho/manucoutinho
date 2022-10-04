@@ -3,33 +3,33 @@
 
 ```javascript
  
-const WhoAmI = {
-  pronouns: "she" | "her",
-  user: "Emanuela Coutinho",
-  role: "frontend",
-  current_edu: [
-   "Rocketseat",
-   "IGTI"
-  ],
-  techCommunities: [
-   "TecnoCrias"
-  ],
-  hobbies: [
-   "Studying",
-   "Watching Anime",
-   "Playing ARPG",
-   "Being up all Night chasing that ONE BUG..."
+  const WhoAmI = {
+    pronouns: "she" | "her",
+    user: "Emanuela Coutinho",
+    role: "frontend",
+    currentEdu: [
+    "Rocketseat",
+    "IGTI"
+    ],
+    techCommunities: [
+    "TecnoCrias"
+    ],
+    hobbies: [
+    "Studying",
+    "Watching Anime",
+    "Playing ARPG",
+    "Being up all Night chasing that ONE BUG..."
     ]
   }
 	
- const getCurrentCity = () => Curitiba_Brazil
+  const getCurrentCity = () => Curitiba_Brazil
 	
-function Ambitions() {
-	travelToJapan()
-	maybeCreateSkyNet()
-	startWritingMyBook()
-//Assume 10 more awesome ambitions here ;)
-	} 
+  function Ambitions() {
+    travelToJapan()
+    maybeCreateSkyNet()
+    startWritingMyBook()
+  //Assume 10 more awesome ambitions here ;)
+    } 
  ```
  
  <img width="250" align="right" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
@@ -51,7 +51,8 @@ function Ambitions() {
 <a href="https://mui.com/pt" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/> </a>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" alt="jamstack" width="40" height="40"/></a>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/></a>
-            
+<a href='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" width="40" height="40" /></a>
+<span class="iconify" data-icon="simple-icons:styledcomponents"></span>            
           
 	
 </p>
@@ -67,11 +68,11 @@ function Ambitions() {
  </div>
 <br>
 <div>
-  <a href="https://github.com/ManuCoutinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManuCoutinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuCoutinho&layout=compact&langs_count=7&theme=dark"/>
-</div>
-</div>
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManuCoutinho&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuCoutinho&layout=compact&langs_count=7&theme=radical"/>
+</div>
+</div>
+<hr/>
 <br>
 
