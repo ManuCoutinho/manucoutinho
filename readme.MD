@@ -68,7 +68,7 @@
 	
  </div>
 <br>
-<img width="400" src="https://holopin.me/manucooutinho">
+
 </div>
 <hr/>
 <br>
