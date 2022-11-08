@@ -65,15 +65,10 @@
  <a href = "mailto:devmanucoutinho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 	<a href= "https://twitter.com/manucout"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 	<a href= "https://dev.to/manucoutinho"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
+	
  </div>
 <br>
-<div>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/manucoutinho/manucoutinho/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/manucoutinho/manucoutinho/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-
-</div>
+<img width="400" src="https://holopin.me/manucooutinho">
 </div>
 <hr/>
 <br>
