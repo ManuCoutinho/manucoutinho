@@ -52,9 +52,11 @@
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" alt="jamstack" width="40" height="40"/></a>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/></a>
 <a href='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" width="40" height="40" /></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><img  href=""stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="graphql" width="40" height="40" /></a>         
-       
-	
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"  alt="graphql" width="60" height="50" /></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="node" width="40" height="40" /></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="node" width="40" height="40" /></a> 
+
+<br/>
 </p>
 
 ##
@@ -64,7 +66,7 @@
   <a href="https://www.linkedin.com/in/emanuela-coutinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:devmanucoutinho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 	<a href= "https://twitter.com/manucout"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-	<a href= "https://dev.to/manucoutinho"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
+	<a href= "https://dev.to/manucoutinho"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" width="110"></a>
 	
  </div>
 <br>
