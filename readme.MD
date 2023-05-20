@@ -52,8 +52,8 @@
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" alt="jamstack" width="40" height="40"/></a>
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/></a>
 <a href='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/'><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" width="40" height="40" /></a>
-<span class="iconify" data-icon="simple-icons:styledcomponents"></span>            
-          
+<a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><img  href=""stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="graphql" width="40" height="40" /></a>         
+       
 	
 </p>
 
