@@ -48,7 +48,15 @@
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"  alt="graphql" width="60" height="50" /></a>
 <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="node" width="40" height="40" /></a>
 <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="node" width="40" height="40" /></a> 
-
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/></a>
+<a href="https://cdnlogo.com/logo/vitejs_134039.html"><img src="https://cdn.cdnlogo.com/logos/v/23/vitejs.svg" width="40" height="40"></a>
+<a href="https://cdnlogo.com/logo/styled-components_110697.html"><img src="https://cdn.cdnlogo.com/logos/s/10/styled-components.svg" width="40" height="40"></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/></a>
+<a href="https://cdnlogo.com/logo/react-native_121902.html"><img src="https://cdn.cdnlogo.com/logos/r/18/react-native.svg" width="40" height="40"></a>
+          
 <br/>
 </p>
 
