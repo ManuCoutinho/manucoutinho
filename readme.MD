@@ -30,7 +30,7 @@
 <h3 align="left"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">You can check my projects <a href="https://www.manucoutinho.com">🔗 here.</a></h3>
 
 #
-<h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3 align="left">Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" margin="50"></h3>
 <p align="left"> 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -57,22 +57,18 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/></a>
 <a href="https://cdnlogo.com/logo/react-native_121902.html"><img src="https://cdn.cdnlogo.com/logos/r/18/react-native.svg" width="40" height="40"></a>
           
-<br/>
 </p>
 
-##
-
-<h3 align="left">Connect with me:</h3>
-<div>  
+<br/>
+<br/>
+<br/>
+<br/>
+<h3 align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuCoutinho&theme=dracula" align="left"/> Connect with me:</h3>
+<div align="right">  
   <a href="https://www.linkedin.com/in/emanuela-coutinho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href = "mailto:devmanucoutinho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-	<a href= "https://twitter.com/manucout"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-	<a href= "https://dev.to/manucoutinho"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" width="100"></a>
-	
+  <a href = "mailto:devmanucoutinho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href= "https://twitter.com/manucout"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href= "https://dev.to/manucoutinho"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" width="100"></a>
  </div>
-<br>
 
-</div>
-<hr/>
-<br>
 
