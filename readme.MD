@@ -26,7 +26,7 @@
  ```
  
 <span align="middle">
-  <h3>You can check my projects <a href="https://www.manucoutinho.com"> here<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a></h3>
+  <h3>You can check my projects <a href="https://www.manucoutinho.com"> here</a> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3>
 </span>
 
 
