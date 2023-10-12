@@ -59,6 +59,8 @@
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/></a>
 <a href="https://cdnlogo.com/logo/react-native_121902.html"><img src="https://cdn.cdnlogo.com/logos/r/18/react-native.svg" width="40" height="40"></a>
+<a href="https://cdnlogo.com/logo/react-native_121902.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://cdnlogo.com/logo/react-native_121902.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/></a>       
           
 </p>
 
