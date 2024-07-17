@@ -6,7 +6,11 @@
   const WhoAmI = {
     pronouns: "she" | "her",
     user: "Emanuela Coutinho",
-    role: "frontend",
+    currentRole: "frontend",
+    currentCourse: {
+      name: "ADS",
+      college: "PUC-PR"
+    },
     hobbies: [
     "Studying",
     "Watching Anime",
