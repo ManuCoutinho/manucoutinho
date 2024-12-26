@@ -6,7 +6,7 @@
   const WhoAmI = {
     pronouns: "she" | "her",
     user: "Emanuela Coutinho",
-    currentRole: "frontend",
+    currentRole: "bug's x-terminator",
     currentCourse: {
       name: "ADS",
       college: "PUC-PR"
